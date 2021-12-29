@@ -1,5 +1,5 @@
-# Biostatistics-R-implementation
-This is a series of code files for implementing biostatistics in R.
+This is a repository that contains a series of code files for implementing biostatistics in R.
+本仓库是用R语言解决生物统计学问题的实战案例库，包括案例、R代码和结果。
 
 主要内容目录：
 实战1-统计数计算;
